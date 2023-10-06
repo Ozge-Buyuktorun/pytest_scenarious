@@ -28,11 +28,5 @@ base URL : https://practicetestautomation.com/practice/
   Verify error message is displayed
   Verify error message text is Your password is invalid!
 ### Result ScreenShot
-- ![WhatsApp Görsel 2023-10-04 saat 15 46 49_3275f36b](https://github.com/Ozge-Buyuktorun/Pytest-Senaryo/assets/74399824/835f6145-ccc1-492a-be9f-6dabedeab451)
-~~~~~~
-![paralel_tests](https://github.com/Ozge-Buyuktorun/Pytest-Senaryo/assets/74399824/f8363a8c-9a3f-4d2a-9cdd-42bf99e49891)
-
-## Some html report example:
-![report html](https://github.com/Ozge-Buyuktorun/Pytest-Senaryo/assets/74399824/40165944-87c3-475a-a2f2-517dae49a326)
-
-
+- ![paralel_tests.jpg](..%2F..%2FDesktop%2Fparalel_tests.jpg)
+- ![report.html.jpg](..%2F..%2FDesktop%2Freport.html.jpg)
